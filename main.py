@@ -6,4 +6,3 @@ city_username = input("What city did you grow up in?\n")
 pet_username = input("What is the name of your pet?\n")
 #4. Combine the name of their city and pet and show them their band name.
 print(f"The name of your band could be {city_username} {pet_username}")
-#5. Make sure the input cursor shows on a new line, see the example at:
